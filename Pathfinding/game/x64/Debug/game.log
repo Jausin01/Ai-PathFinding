@@ -1,0 +1,198 @@
+﻿  Ai+Draw.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Draw.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Draw.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Draw.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Draw.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Draw.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Draw.cpp')
+  
+  Ai+GetNeighbors.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetNeighbors.cpp')
+  
+  Ai+GetRandomNode.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetRandomNode.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetRandomNode.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetRandomNode.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetRandomNode.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetRandomNode.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+GetRandomNode.cpp')
+  
+  Ai+Interaction.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Interaction.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Interaction.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Interaction.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Interaction.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Interaction.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Interaction.cpp')
+  
+  Ai+RandomSearch.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+RandomSearch.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+RandomSearch.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+RandomSearch.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+RandomSearch.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+RandomSearch.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+RandomSearch.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Ai+RandomSearch.cpp(71,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Ai+Restart.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Restart.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Restart.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Restart.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Restart.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Restart.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Restart.cpp')
+  
+  Ai+Update.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Update.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Update.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Update.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Update.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Update.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai+Update.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Ai+Update.cpp(62,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Ai.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Ai.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Ai.cpp(39,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Ai.cpp(43,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GetRandomColor.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GetRandomColor.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GetRandomColor.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GetRandomColor.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GetRandomColor.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GetRandomColor.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GetRandomColor.cpp')
+  
+  main.cpp
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(9,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\game\Node.h(60,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  game.vcxproj -> C:\Users\User\OneDrive\Backup PC\College\Quarter 4\2D Programming\Pathfinding\x64\Debug\game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
